@@ -22,20 +22,12 @@ CLI application with persistent storage and structured design
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Programming Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Flaviu's GitHub stats](https://github-readme-stats.vercel.app/api?username=flaviu-zubatii&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviu-zubatii&layout=compact&theme=tokyonight)
 
 ---
 
